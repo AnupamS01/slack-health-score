@@ -33,8 +33,8 @@
   "homepage": "https://github.com/slackapi/slack-health-score#readme",
   "dependencies": {
     "@actions/core": "^1.10.1",
-    "@actions/github": "https://github.com/AnupamAS0x1/test-sample",
-    "@api/codecov": "file:.api/apis/codecov"
+    "@actions/github": "",
+    "@api/codecov": "https://github.com/AnupamAS0x1/test-sample"
   },
   "devDependencies": {
     "@vercel/ncc": "^0.38.1",
